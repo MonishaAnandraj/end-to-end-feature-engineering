@@ -1,0 +1,513 @@
+Employee_ID,Name,Age,Gender,City,Department,Education,Experience_Years,Salary,Performance_Score,Performance_Rating,Join_Date,Email,Phone,Loan_Approved
+EMP1339,Ravi Saxena,56,Male,Mumbai,Data Science,Diploma,31,163755,83,Good,2017-08-31,ravi.saxena97@gmail.com,9794577278,Yes
+EMP1040,Sanjay Malhotra,40,Male,DELHI,Sales,Master's,16,97043,68,Good,2022-09-26,sanjay.malhotra66gmail.com,9570596401,No
+EMP1186,Kiran Trivedi,53,Male,Kolkata,Data Science,Master's,30,156862,75,Excellent,2019-01-09,kiran.trivedi43@gmail.com,9522801561,Yes
+EMP1476,Priya Shah,48 years,Female,Pune,HR,Bachelor's,23,133665 rupees,68,Average,invalid,priya.shah61@gmail.com,9563370140,No
+EMP1030,Suresh Rao,28,Female,Jaipur,Marketing,Bachelor's,3,35848,94%,Good,2021-03-28,suresh.rao57gmail.com,9149368998,Yes
+EMP1173,Sneha Verma,42,Female,Chennai,Sales,PhD,18,98959,65,Average,2016-04-03,SNEHA.VERMA83@GMAIL.COM,9818984713,No
+EMP1050,Ravi Sharma,41,Female,Surat,Sales,Master's,17,106388,81,Average,2020-08-27,ravi.sharma69@gmail.com,9431527420,No
+EMP1118,Vivek Shah,56,Male,Pune,Data Science,Diploma,33,166434,68,Excellent,2019-08-16,vivek.shah43@gmail.com,9240082547,Yes
+EMP1188,Vivek Mishra,48,F,Jaipur,Operations,High School,23,123270,89,Excellent,2020-10-20,,9155626060,No
+EMP1386,Ravi Mehta,37,M,Jaipur,Design,Master's,15,85992,43,Excellent,2016-07-14,ravi.mehta99@gmail.com,9462456185,No
+EMP1049,Sunil Nair,37,female,Jaipur,Marketing,Bachelor's,15,85783,66,Good,2020-04-18,sunil.nair22@gmail.com,9208267734,No
+EMP1235,Kavita Mishra,26,Male,Kolkata,Legal,Diploma,4,38470,78,Excellent,2016-06-12,kavita.mishra47@gmail.com,9090367881,No
+EMP1053,Rekha Rao,46,0,Kolkata,Design,High School,23,not disclosed,47,Average,29/05/2019,rekha.rao77@gmail.com,9230047868,No
+EMP1126,Swati Mishra,48,female,Delhi,Marketing,Diploma,26,144533,43,Excellent,2015-06-18,swati.mishra50@gmail.com,9892583206,No
+EMP1152,Sanjay Mehta,26,Male,Chennai,HR,PhD,3,500000,75,Average,2017-09-24,sanjay.mehta84@gmail.com,9021962071,Yes
+EMP1006,Lakshmi Patel,-5,Female,Ahmedabad,Legal,Diploma,2,25863,72,Good,2017-01-31,lakshmi.patel18gmail.com,9913619399,Yes
+EMP1354,Manish Rao,54,Male,Bangalore,Marketing,Diploma,30,160960,52,Good,2019-05-28,manish.rao25@gmail.com,9470798632,Yes
+EMP1214,Sanjay Trivedi,,Male,Chennai,Support,PhD,14,86908,95,Average,2019-01-12,sanjay.trivedi60@gmail.com,9627768962,Yes
+EMP1470,Vikram Chopra,41,Male,Surat,Engineering,Bachelor's,18,99910,100,Excellent,2017-10-12,vikram.chopra79@gmail.com,9419662291,Yes
+EMP1199,Shreya Mishra,23,Female,Pune,Finance,Bachelor's,1,35018 rupees,55,Good,11/08/2015,SHREYA.MISHRA52@GMAIL.COM,9831997179,Yes
+EMP1389,Amit Gupta,24,Female,Hyderabad,Engineering,High School,0,19356,53,Excellent,2021-06-11,amit.gupta10@gmail.com,9310615372,Yes
+EMP1490,Pooja Trivedi,36,Male,Bangalore,Engineering,Bachelor's,12,82148,76,Good,2017-04-17,pooja.trivedi11@gmail.com,9303346771,No
+EMP1307,Rekha Iyer,56,Male,Surat,Legal,High School,31,170255,92,Excellent,2019-06-20,rekha.iyer15@gmail.com,9568761124,Yes
+EMP1451,Priya Pandey,32,FEMALE,Hyderabad,HR,Diploma,10,78942,75,,August 19 2016,priya.pandey25@gmail.com,9010232001,No
+EMP1447,Manish Nair,54,Male,Chennai,Operations,Master's,32,160030,83,Good,2018-06-05,manish.nair93@gmail.com,9547523112,Yes
+EMP1370,Vikram Tiwari,23,Male,Surat,Operations,Master's,0,15671,7100.0,Good,2019-12-30,vikram.tiwari64@gmail.com,9164534547,No
+EMP1237,Anjali Iyer,57,Female,Ahmedabad,Marketing,Master's,33,170182,77,Good,2020-01-02,anjali.iyer39@gmail.com,9652717272,No
+EMP1246,Ananya Mishra,54,Male,Chennai,Engineering,Diploma,,167022,84,Excellent,2016-03-07,ananya.mishra47@gmail.com,9629613671,No
+EMP1217,Harish Sharma,28,Male,Kolkata,,PhD,4,47121,50,Average,02/02/2017,harish.sharma27gmail.com,9372817932,Yes
+EMP1046,Rajesh Gupta,34,Female,Jaipur,Design,Diploma,12,70484,42,Average,2018-09-26,rajesh.gupta70@gmail.com,9872982595,
+EMP1263,Pooja Shah,,male,Jaipur,HR,Master's,15,91945,44,Excellent,2020-02-03,pooja.shah15@gmail.com,,Yes
+EMP1086,Harish Shah,45,Female,Mumbai,Legal,Bachelor's,23,not disclosed,85,Good,2020-11-17,harish.shah82@gmail.com,9023303070,No
+EMP1071,Priya Joshi,35,Female,Surat,Legal,Bachelor's,10,69684,,,07/09/2017,priya.joshi73@gmail.com,9613791805,Yes
+EMP1230,Suresh Chopra,40,Male,HYDERABAD,Engineering,Diploma,15,89625,99,,2020-10-12,suresh.chopra14@gmail.com,9797050975,No
+EMP1194,Sneha Joshi,46,Male,Pune,HR,PhD,22,122451,64,Good,2017-04-09,sneha.joshi40@gmail.com,9993788614,Yes
+EMP1441,Kiran Rao,39,Female,Chennai,Data Science,Bachelor's,15,86581,79,Good,invalid,kiran.rao93@gmail.com,9034409661,Yes
+EMP1113,Nikhil Verma,57,FEMALE,Ahmedabad,Operations,Master's,34,not disclosed,57,Average,2022-08-30,nikhil.verma34@gmail.com,9733343333,No
+EMP1007,Preeti Iyer,30,Male,Delhi,Marketing,Master's,6,47169,68,Excellent,2022-05-02,preeti.iyer77@gmail.com,9084124118,No
+EMP1125,Arjun Joshi,-5,Male,Hyderabad,Marketing,Master's,0,24042,98,Average,2015-06-04,arjun.joshi68@gmail.com,9522459334,Yes
+EMP1212,Harish Singh,56,Female,,HR,Master's,34,187656,60,Good,2022-10-12,harish.singh27@gmail.com,9525715099,No
+EMP1136,Ranjit Saxena,53,Female,ahmedabad,Data Science,Bachelor's,30,159518,52,Excellent,2015-04-09,ranjit.saxena69@gmail.com,9139660558,Yes
+EMP1266,Suresh Joshi,22,Female,Ahmedabad,Support,Bachelor's,0,17200,40,Average,2016-05-10,suresh.joshi76@gmail.com,9133170876,No
+EMP1177,Deepak Trivedi,35,Female,Chennai,Marketing,PhD,12,82386,-1,Average,2018-04-03,deepak.trivedi43@gmail.com,9397359710,Yes
+EMP1472,Rohit Shah,54,Male,Mumbai,Legal,PhD,32,172355,49,Poor,invalid,rohit.shah20@gmail.com,9996433853,No
+EMP1287,Rohit Iyer,58,M,Kolkata,Finance,PhD,36,,66,Excellent,2018-03-10,rohit.iyer99@gmail.com,9883607658,Yes
+EMP1316,Aditya Trivedi,34,M,Delhi,Design,Master's,9,70287,96,Average,2018-09-15,aditya.trivedi19@gmail.com,9295786069,No
+EMP1273,Ravi Mehta,44,Female,Hyderabad,Finance,Bachelor's,19,116186 rupees,82,Good,2015-11-11,ravi.mehta19@gmail.com,9483753745,No
+EMP1032,Nisha Shah,57,Female,Pune,Sales,PhD,35,186794,41,Average,2018-07-06,nisha.shah83@gmail.com,9696641605,Yes
+EMP1439,Manoj Kumar,40,Male,Mumbai,Support,PhD,16 yrs,106982,64,Good,2017-10-15,manoj.kumar43@gmail.com,9960478421,No
+EMP1179,Manish Tiwari,25,male,Bangalore,Engineering,Bachelor's,2,25175,70,Excellent,2022-12-01,manish.tiwari69@gmail.com,9617075877,No
+EMP1411,Geeta Trivedi,26,Female,Chennai,Engineering,PhD,2,26k,52,Poor,2020-02-03,geeta.trivedi39@gmail.com,9125523561,No
+EMP1359,Rohit Nair,51,Female,Hyderabad,Engineering,Diploma,29,161726,,Good,2018-06-09,rohit.nair40@gmail.com,9643813000,No
+EMP1154,Sunil Mehta,48,Female,Pune,Marketing,High School,24,130463,,Poor,2019-08-17,sunil.mehta35@gmail.com,9631797062,No
+EMP1294,Preeti Gupta,39,female,Bangalore,Data Science,High School,15,102440,52,Good,2022-02-15,preeti.gupta10@gmail.com,9448515791,No
+EMP1289,Harish Kumar,55,Male,Bangalore,Legal,PhD,30,150303,58,Good,2018-04-20,harish.kumar96gmail.com,9485959224,Yes
+EMP1211,Ananya Sharma,48,Male,Mumbai,Operations,Bachelor's,26,not disclosed,,Good,2022-06-13,ananya.sharma31@gmail.com,9206815583,Yes
+EMP1328,Priya Singh,34,FEMALE,Chennai,Legal,Diploma,10,78347,74,Average,2021-12-08,priya.singh99@gmail.com,9131196425,Yes
+EMP1216,Pooja Iyer,51,Male,Bangalore,Finance,Bachelor's,28,141404,47,Good,2022-12-24,pooja.iyer59@gmail.com,9691836264,
+EMP1398,Vivek Tiwari,23,Male,Surat,Engineering,High School,0,23048,64,Good,30/10/2018,vivek.tiwari21@gmail.com,9584826691,No
+EMP1044,Shreya Nair,47,Male,Ahmedabad,Sales,High School,24,137404,66,Average,2017-04-15,shreya.nair53@gmail.com,9925556258,Yes
+EMP1100,Puja Patel,41,Male,Surat,Legal,Master's,19,110915,73,Poor,2020-11-02,puja.patel18@gmail.com,,No
+EMP1048,Sunita Trivedi,52,Female,Hyderabad,Finance,Diploma,28,148368,100,Excellent,2018-03-29,sunita.trivedi36@gmail.com,9757584419,Yes
+EMP1397,Priya Sharma,27,Male,Bangalore,Support,High School,5,43739,70,Good,2021-01-16,priya.sharma92@gmail.com,9509025561,Yes
+EMP1371,Vivek Iyer,999,Female,Kolkata,Finance,Bachelor's,11,72096,95,Good,2015-08-02,vivek.iyer83@gmail.com,9248762303,No
+EMP1471,Manoj Rao,45,Male,Chennai,Support,Master's,21,119346,150,Excellent,2019-11-03,manoj.rao60@gmail.com,9349339650,Yes
+EMP1431,Nisha Malhotra,53,Male,MUMBAI,HR,,31,169019,86%,Good,2019-10-12,nisha.malhotra85@gmail.com,9063224815,Yes
+EMP1348,Aarav Mishra,33,Female,Surat,HR,Bachelor's,11,65037,65,Average,2018-01-14,aarav.mishra53@gmail.com,9307624843,No
+EMP1103,Rajesh Sharma,57,Female,Jaipur,HR,High School,35,172664,76,Good,2021/02/20,rajesh.sharma20@gmail.com,9435368222,No
+EMP1378,Seema Mishra,,M,Bangalore,Engineering,High School,28,146818,42,Average,2019-02-11,seema.mishra96@gmail.com,9591024510,Yes
+EMP1425,Vivek Mehta,26,Male,Chennai,Marketing,Diploma,3,36248,97%,Average,2022-04-29,vivek.mehta56@gmail.com,9398358446,Yes
+EMP1093,Sunita Nair,51,Male,Chennai,Data Science,High School,29,151224,95,Excellent,2018-04-05,sunita.nair56@gmail.com,9561100225,Yes
+EMP1358,Arjun Mehta,44,Male,Ahmedabad,Data Science,Diploma,21,110901,61,Average,2018-10-31,arjun.mehta79@gmail.com,9292361618,No
+EMP1115,Rohit Iyer,-5,Female,Kolkata,Design,Bachelor's,14,82900,70,Excellent,2019-09-23,rohit.iyer73@gmail.com,9288574489,No
+EMP1404,Ravi Joshi,30,F,Jaipur,Design,High School,6,42696,89,Good,2020-07-09,ravi.joshi60@gmail.com,9660811260,No
+EMP1384,Rahul Kumar,29,Female,Ahmedabad,Operations,High School,4,49737,47,Average,2021-11-21,rahul.kumar45@gmail.com,9151526384,No
+EMP1057,Harish Tiwari,32,Male,Pune,HR,Bachelor's,7,not disclosed,,Excellent,invalid,harish.tiwari19@gmail.com,9006231203,No
+EMP1420,Rohit Joshi,27,Male,Pune,HR,PhD,2,41341,100,Good,2021-08-20,rohit.joshi77@gmail.com,9780927045,No
+EMP1234,Manish Gupta,43,Male,Pune,Support,Diploma,19,108307,,Excellent,2021-07-21,manish.gupta59@gmail.com,9112910933,No
+EMP1099,Manish Pandey,37,Female,Chennai ,Engineering,PhD,12,82650,,Good,2015-08-09,manish.pandey11gmail.com,9439735989,
+EMP1458,Lakshmi Sharma,22,Male,Chennai,Sales,Diploma,0,33408,85,Good,2018-04-15,lakshmi.sharma39@gmail.com,9298769893,No
+EMP1003,Sanjay Shah,28,Female,Chennai,Legal,Diploma,5,42508,63,Average,2020-12-12,sanjay.shah10@gmail.com,9957015430,No
+EMP1155,Ranjit Kumar,58,Female,Hyderabad,Sales,PhD,33,170592,77,Average,2020-03-10,ranjit.kumar45@gmail.com,9063356939,Yes
+EMP1309,Sunil Shah,42,Female,Pune,Design,PhD,19,117710,70,Average,2019-04-05,sunil.shah11@gmail.com,9153433249,Yes
+EMP1322,Nikhil Kumar,38,Male,Ahmedabad,Legal,PhD,16,98218,88,Excellent,2019-02-05,nikhil.kumar64@gmail.com,9082137118,Yes
+EMP1156,Swati Joshi,999,,Delhi,Engineering,PhD,13,78801,85,Average,2021-05-25,SWATI.JOSHI84@GMAIL.COM,9077262570,Yes
+EMP1460,Suresh Pandey,30,,Mumbai,Operations,Master's,8 yrs,65598,9200.0,Average,2022/11/26,suresh.pandey16@gmail.com,9657955156,Yes
+EMP1299,Sunil Sharma,36,0,Bangalore,Marketing,Master's,12,80136,72,Excellent,2021-09-20,sunil.sharma60@gmail.com,9132730346,No
+EMP1084,Kavita Tiwari,33,Female,Hyderabad,Marketing,Bachelor's,11,78373,45,Good,2022-01-13,kavita.tiwari28@gmail.com,9945116868,No
+EMP1364,Shreya Shah,26,Female,Bangalore,Marketing,PhD,2,31384,92,Excellent,2015-09-02,shreya.shah65@gmail.com,9056035679,Yes
+EMP1351,Puja Trivedi,29,Male,Mumbai,Marketing,Diploma,5,45633,90,Good,2022-11-09,,9443240061,Yes
+EMP1208,Deepak Gupta,35,Male,Kolkata,Data Science,Bachelor's,11,83750,52,Average,2017-04-06,deepak.gupta10@gmail.com,9271693859,Yes
+EMP1091,Akash Trivedi,,Male,Kolkata,HR,,30,161771,88,Poor,2019-07-11,akash.trivedi12@gmail.com,9332309821,No
+EMP1028,Lakshmi Sharma,33,Male,Mumbai,HR,PhD,,66582,-1,Average,2019-01-22,lakshmi.sharma75@gmail.com,9917839084,Yes
+EMP1051,Suresh Saxena,58,Male,Chennai,Operations,Bachelor's,36,180873,69,Excellent,2019-07-19,suresh.saxena97@gmail.com,9841459332,No
+EMP1102,Sunita Malhotra,26,Female,Hyderabad,Finance,PhD,1,34282,,Good,2018-07-19,sunita.malhotra12@gmail.com,9618091901,Yes
+EMP1231,Seema Iyer,28,Male,Ahmedabad,HR,Bachelor's,4,47220,40,Good,2022-12-14,seema.iyer35@gmail.com,9134026650,Yes
+EMP1111,Divya Trivedi,-5,Female,Bangalore,Data Science,PhD,3,not disclosed,94,Excellent,2015-05-18,divya.trivedi86@gmail.com,9883920530,No
+EMP1482,Harish Singh,30,Male,Delhi,HR,Master's,8,57612,76,Poor,2023-01-13,harish.singh65@gmail.com,9967897609,Yes
+EMP1141,Rohit Mehta,57,Male,Delhi,Finance,Diploma,32,172133,77,Good,2021-12-18,rohit.mehta41@gmail.com,9827615396,No
+EMP1251,Vivek Nair,57,Male,Hyderabad,Support,,35,191435,,Average,2019-05-19,vivek.nair32@gmail.com,9658263128,
+EMP1245,Pooja Saxena,53,Male,Mumbai,HR,Master's,31,170848,46,Average,2016-11-26,pooja.saxena47@gmail.com,9214955112,Yes
+EMP1269,Rekha Verma,25,Female,Chennai,Sales,High School,3,42968,,,2022-01-29,rekha.verma13gmail.com,9251762983,No
+EMP1072,Manoj Verma,56,Female,Surat,HR,Master's,34,178155,45,Poor,2016-09-28,manoj.verma78@gmail.com,9569146303,Yes
+EMP1282,Seema Reddy,22,Male,Mumbai,Operations,Bachelor's,0,33715,67,Average,2016-05-31,seema.reddy68@gmail.com,9411767412,No
+EMP1206,Shreya Nair,55,Female,Jaipur,Data Science,PhD,31,157313,60,Poor,invalid,shreya.nair63@gmail.com,9377805292,Yes
+EMP1202,Manoj Kumar,22,Male,MUMBAI,Sales,Master's,0,33176,47%,Average,2019-12-09,manoj.kumar34@gmail.com,9950033423,Yes
+EMP1317,Suresh Kumar,28,male,JAIPUR,Support,High School,5,55197,,Good,2018-07-15,suresh.kumar39@gmail.com,9334264335,Yes
+EMP1379,Preeti Singh,53,F,Hyderabad,Finance,High School,28,152097,82,Average,2020-04-20,preeti.singh67@gmail.com,9584466345,No
+EMP1164,Preeti Nair,34,FEMALE,Jaipur,Support,Diploma,12,82675,69,Good,invalid,preeti.nair12@gmail.com,9754527985,
+EMP1002,Harish Pandey,51,Female,,HR,Bachelor's,27,155655,67,Good,2017-06-17,harish.pandey27@gmail.com,9871012269,Yes
+EMP1162,Meera Kumar,46,M,Jaipur,Data Science,High School,22,133176,59,Average,2020-03-13,meera.kumar38@gmail.com,9002447146,
+EMP1200,Puja Trivedi,22,Male,Kolkata,Data Science,PhD,0,26128,8100.0,Excellent,2020-10-19,puja.trivedi52@gmail.com,9931109193,Yes
+EMP1275,Ranjit Mishra,49,Female,Mumbai,Sales,Diploma,24,132418,94,Average,2021-06-03,ranjit.mishra82@gmail.com,9842673204,Yes
+EMP1426,Sunil Tiwari,22,,Surat,HR,PhD,fresher,20311,43,Good,invalid,SUNIL.TIWARI86@GMAIL.COM,9787137529,No
+EMP1191,Harish Mishra,,0,Jaipur,HR,PhD,7,50739,85,Good,2017-05-20,harish.mishra68@gmail.com,9702851961,No
+EMP1450,Ranjit Saxena,49,Female,Jaipur,Legal,Bachelor's,27,146529,60,Average,2022-11-19,ranjit.saxena27@gmail.com,9714724630,No
+EMP1465,Ravi Saxena,N/A,Male,Kolkata,Engineering,Master's,1,19684,80,Good,2017-11-03,ravi.saxena41@gmail.com,9021166732,No
+EMP1171,Nisha Trivedi,27,Male,SURAT,Sales,Diploma,3,37457,44,Average,2017-05-09,nisha.trivedi54@gmail.com,9148468536,Yes
+EMP1080,Rohit Mehta,41,Male,Bangalore,HR,PhD,,97396,51,Good,2022-06-19,rohit.mehta85@gmail.com,9264422096,No
+EMP1290,Suresh Reddy,34,Male,Delhi,Legal,PhD,10,63k,43,Average,2016-10-02,suresh.reddy18@gmail.com,9583503446,No
+EMP1174,Shreya Nair,39,Female,Bangalore,Operations,PhD,15,92598,41,Excellent,2022-06-05,shreya.nair16@gmail.com,,Yes
+EMP1010,Meera Rao,49,Male,Pune,Support,Master's,27,146340,72,Excellent,2019-07-31,meera.rao51@gmail.com,9648236629,No
+EMP1467,Rohit Singh,54,Male,Hyderabad,Legal,Master's,30,168030,-1,Good,2021-08-07,rohit.singh50@gmail.com,9977216880,No
+EMP1301,Aditya Rao,25,Female,Pune,Finance,PhD,1,29204,89,Excellent,2017-12-30,aditya.rao32@gmail.com,9456075409,No
+EMP1063,Ravi Rao,56,Female,Delhi,Sales,Bachelor's,32,164450,81,Excellent,March 27 2022,ravi.rao96@gmail.com,9656101438,No
+EMP1064,Akash Chopra,44,Male,Delhi,Data Science,PhD,20,107201,59,,2022-12-21,akash.chopra24@gmail.com,9051238282,Yes
+EMP1061,Amit Saxena,55,Female,KOLKATA,HR,Bachelor's,31,164367,57,Average,2015-09-17,amit.saxena31@gmail.com,9646471543,No
+EMP1452,Amit Malhotra,,Male,Hyderabad,Sales,Diploma,18,1200000,57,Good,invalid,amit.malhotra92@gmail.com,9235469510,Yes
+EMP1321,Rohit Nair,N/A,1,Bangalore,Finance,Master's,11,1200000,73,Excellent,2016-06-23,rohit.nair51@gmail.com,9652906032,Yes
+EMP1461,Anjali Singh,23,Female,Pune,Finance,PhD,0,16768,83%,Average,2022-02-09,anjali.singh13@gmail.com,9695354120,No
+EMP1405,Sneha Mishra,54,Female,Bangalore,Design,Diploma,32,174905,80,Average,2021-04-18,sneha.mishra92@gmail.com,9293844013,Yes
+EMP1081,Nikhil Tiwari,22,Male,Hyderabad,Marketing,High School,0,23410,,Good,2015-01-06,nikhil.tiwari16@gmail.com,9676267658,No
+EMP1008,Manish Sharma,29,0,Bangalore,Legal,High School,5,56587,,Average,2016-06-06,manish.sharma15@gmail.com,9450533158,Yes
+EMP1367,Sunita Chopra,51,F,Surat,Finance,Diploma,26 yrs,138527,150,Excellent,16/01/2022,sunita.chopra72@gmail.com,9917665122,Yes
+EMP1279,Rekha Nair,58,1,Bangalore,Legal,Bachelor's,33,182661,82,Average,invalid,rekha.nair46@gmail.com,9551166829,No
+EMP1280,Vivek Rao,30,Male,Jaipur,Marketing,Master's,8,62036,97%,Good,2021-10-29,vivek.rao88@gmail.com,9101576764,No
+EMP1487,Meera Joshi,48,Male,Pune,Data Science,Diploma,25,131617,42,Poor,2015-06-25,meera.joshi48@gmail.com,9496461293,Yes
+EMP1096,Nikhil Rao,25,Female,Hyderabad,Data Science,Master's,0,26904,85,Average,2016/02/04,nikhil.rao94@gmail.com,9305548851,Yes
+EMP1085,Rekha Iyer,N/A,Male,Ahmedabad,Support,Diploma,21,,51,Excellent,2016-08-12,rekha.iyer89@gmail.com,9960653074,Yes
+EMP1142,Anjali Mehta,53,Male,Mumbai,,Bachelor's,30,169030,97,Excellent,2016-08-23,anjali.mehta94@gmail.com,9278469973,Yes
+EMP1281,Sneha Saxena,55,Female,Surat,Legal,PhD,31,165077,64,Good,2016-12-31,sneha.saxena28@gmail.com,9036849951,
+EMP1357,Meera Nair,50,Female,Mumbai,Engineering,Diploma,25,145815,100,Average,2017-08-06,meera.nair16@gmail.com,9451957782,Yes
+EMP1121,Kiran Iyer,29,Male,Hyderabad,Engineering,High School,4,52536,49,Good,2016-01-02,kiran.iyer41@gmail.com,9271950052,Yes
+EMP1414,Aarav Rao,22,Male,Jaipur ,HR,High School,0 yrs,20912,54,Good,2022-07-23,aarav.rao30@gmail.com,9165058714,Yes
+EMP1037,Nisha Tiwari,44,,Kolkata,Engineering,PhD,20,112725,64,Good,2017-07-08,nisha.tiwari13@gmail.com,9515220472,Yes
+EMP1180,Rohit Mehta,23,Male,Delhi,Design,Master's,1,30101,49,Excellent,2020-02-29,rohit.mehta94@gmail.com,9774905097,Yes
+EMP1462,Sunil Iyer,50,F,Surat,Operations,High School,25,136757,42,Average,2019-12-20,sunil.iyer34@gmail.com,9279805950,Yes
+EMP1137,Shreya Patel,30,Male,BANGALORE,Data Science,Diploma,6,57154,90,Good,2015-08-18,shreya.patel76@gmail.com,,No
+EMP1401,Priya Nair,28,Male,Hyderabad,Legal,Diploma,5,46525,61,Average,2021-11-03,priya.nair99@gmail.com,9050404333,Yes
+EMP1366,Rahul Iyer,49,Male,Hyderabad,Support,Bachelor's,25,133724,83,Good,2021-02-01,rahul.iyer80@gmail.com,9537982143,
+EMP1285,Sunita Patel,N/A,Male,Hyderabad,Operations,High School,15,97168 rupees,6600.0,Poor,2016-11-13,sunita.patel78@gmail.com,9319952980,No
+EMP1344,Ananya Mehta,57,Male,Bangalore ,Support,High School,35,182419,64,,2019-04-06,ananya.mehta59@gmail.com,9046558665,Yes
+EMP1406,Priya Trivedi,25,Female,Pune,Support,Diploma,3,37981,58,Average,2023-01-06,priya.trivedi67@gmail.com,9492699969,Yes
+EMP1175,Harish Chopra,48,female,Pune,Design,High School,25,136051,72,Good,2019-09-20,harish.chopra87@gmail.com,9857002720,Yes
+EMP1069,Nikhil Patel,24,Male,Ahmedabad,Engineering,High School,1,,150,Excellent,2017-04-08,nikhil.patel98gmail.com,9242415415,Yes
+EMP1015,Vivek Rao,26,Female,Pune,Engineering,PhD,1,22958,67,Good,2020-02-27,vivek.rao29@gmail.com,9628498776,No
+EMP1434,Meera Trivedi,47,Female,Ahmedabad,Finance,PhD,22,128313 rupees,92,,2018-12-17,meera.trivedi84@gmail.com,9183270004,Yes
+EMP1400,Kiran Sharma,37 years,Male,Bangalore,Operations,,12,76008,46,Excellent,2017-10-28,kiran.sharma20@gmail.com,9706462554,Yes
+EMP1036,Ranjit Kumar,50,Male,Kolkata,Operations,Bachelor's,25,136836,88,Average,December 27 2020,ranjit.kumar40@gmail.com,9473597746,No
+EMP1234,Manish Gupta,43,Male,Pune,Support,Diploma,19,108307,,Excellent,2021-07-21,manish.gupta59@gmail.com,9112910933,No
+EMP1342,Lakshmi Saxena,50,Male,Pune,HR,Master's,26 yrs,135325,91,Average,2016-10-30,lakshmi.saxena63@gmail.com,9189628874,No
+EMP1167,Rohit Pandey,50,Female,Delhi,Sales,Bachelor's,25,140627,84,Good,2016-11-22,rohit.pandey18@gmail.com,9535396136,No
+EMP1058,Rohit Shah,31,M,Hyderabad,Support,Diploma,7,58114,57,Good,2019-03-09,rohit.shah61@gmail.com,9793341016,Yes
+EMP1107,Pooja Kumar,32,F,surat,Sales,Bachelor's,7 yrs,57320,86,Good,2022-07-28,pooja.kumar71@gmail.com,9739260302,Yes
+EMP1365,Ravi Rao,39,Male,chennai,Data Science,Master's,15,100040,78,Good,2020-04-08,ravi.rao75@gmail.com,9769899927,Yes
+EMP1399,Priya Trivedi,55,Female,Bangalore,Sales,High School,31,156039 rupees,99,Good,2019-05-24,priya.trivedi42@gmail.com,9818804428,Yes
+EMP1296,Rahul Verma,54,FEMALE,Hyderabad,Finance,Bachelor's,29,154047,42,Good,2022-05-20,rahul.verma90@gmail.com,9272795596,No
+EMP1293,Shreya Trivedi,51,Male,BANGALORE,Data Science,Diploma,29,146751,63,Excellent,2022-12-31,shreya.trivedi29@gmail.com,9221610705,No
+EMP1220,Ananya Singh,49,Male,Mumbai,HR,Master's,24,132186,54,Excellent,2020-05-04,ananya.singh95@gmail.com,9128715399,No
+EMP1092,Suresh Mishra,28,Male,Jaipur,Finance,,5,51224,93,Good,2023-01-23,suresh.mishra89@gmail.com,9141173934,No
+EMP1489,Manoj Malhotra,23,Male,Jaipur,Operations,Bachelor's,0,27498,88,Excellent,2022-05-02,manoj.malhotra21@gmail.com,9774174304,No
+EMP1498,Kavita Trivedi,49,Male,Bangalore,Marketing,Master's,26,135663,79,Average,2019-11-22,kavita.trivedi28@gmail.com,9213204104,No
+EMP1265,Rekha Verma,30,female,Chennai,Marketing,Diploma,6,46170 rupees,79,Excellent,2019-05-28,rekha.verma26@gmail.com,9607870104,Yes
+EMP1147,Anjali Mehta,55,Male,,Sales,Diploma,31,,79,Excellent,invalid,anjali.mehta44@gmail.com,9149673938,Yes
+EMP1134,Sanjay Singh,N/A,Female,Mumbai,Support,Master's,8 yrs,66028,7100.0,Average,2015-01-24,sanjay.singh87@gmail.com,9733977671,No
+EMP1336,Ravi Gupta,31,Female,Hyderabad,Support,Master's,6,60695,85,Excellent,2022-04-30,ravi.gupta44@gmail.com,9606664374,No
+EMP1074,Lakshmi Iyer,26,Female,Pune,Sales,Diploma,4,38876,54,Excellent,invalid,lakshmi.iyer69@gmail.com,9445187053,
+EMP1395,Sunil Mehta,50,Female,Surat,Legal,Diploma,27,151214,67,Average,2019-12-29,sunil.mehta45@gmail.com,9549303646,No
+EMP1483,Amit Reddy,,Male,Chennai,Marketing,,36,189524,61,Excellent,2015-05-07,amit.reddy75@gmail.com,9952312021,No
+EMP1258,Manish Nair,35,FEMALE,Delhi,Sales,PhD,,80462,40,Poor,2019-04-27,manish.nair34@gmail.com,9715398854,Yes
+EMP1203,Ranjit Mishra,26,male,Bangalore,HR,Bachelor's,3,45950,64,Good,2021-09-21,ranjit.mishra64@gmail.com,9309938425,Yes
+EMP1375,Preeti Patel,,male,Surat,Legal,High School,34,180383,61,Average,2023-02-07,preeti.patel91gmail.com,9422319646,No
+EMP1393,Deepak Verma,43,Female,Surat,Sales,High School,19,120105,,,2020-05-03,deepak.verma98@gmail.com,9482073651,Yes
+EMP1223,Shreya Joshi,31,Female,HYDERABAD,Marketing,High School,7,65363,46,Average,2019-10-16,shreya.joshi96@gmail.com,9201572018,Yes
+EMP1012,Neha Kumar,52,Male,Chennai,Marketing,Master's,27 yrs,144339,57,Average,2023-01-01,neha.kumar46@gmail.com,9345581223,Yes
+EMP1304,Akash Rao,41,female,Pune,Data Science,PhD,19,105608,79,Average,2018-12-11,akash.rao82@gmail.com,9660487368,No
+EMP1333,Swati Singh,31,Female,Pune,Support,Bachelor's,6,47816,72,Average,29/12/2019,swati.singh13@gmail.com,9908144152,Yes
+EMP1497,Rajesh Malhotra,31,F,Kolkata,Legal,PhD,6,55155,59,Excellent,2021-07-15,rajesh.malhotra24@gmail.com,9854880644,Yes
+EMP1172,Sneha Shah,,Male,Ahmedabad,HR,Bachelor's,11 yrs,74339,94,Good,2018-07-29,sneha.shah18@gmail.com,9364424936,Yes
+EMP1312,Vivek Joshi,28,Female,Ahmedabad,Operations,Diploma,5,43843,89,Good,2017-08-07,vivek.joshi37@gmail.com,9484587149,Yes
+EMP1323,Geeta Shah,55,Male,Jaipur,Operations,Diploma,32,176395,50,Good,2016-02-15,geeta.shah97@gmail.com,9293289634,No
+EMP1390,Aarav Mishra,51,Female,Mumbai,Engineering,,27,143179,66,Good,2016-07-30,aarav.mishra46@gmail.com,9426078197,Yes
+EMP1409,Kavita Iyer,34,Female,Chennai,Design,Diploma,11,72384,150,Excellent,invalid,kavita.iyer44@gmail.com,9002730086,Yes
+EMP1004,Rajesh Tiwari,55,Male,Delhi,Marketing,Bachelor's,33,174578,41,Poor,2017-06-21,RAJESH.TIWARI10@GMAIL.COM,9103105183,No
+EMP1357,Meera Nair,50,Female,Mumbai,Engineering,Diploma,25,145815,100,Average,2017-08-06,meera.nair16@gmail.com,9451957782,Yes
+EMP1300,Kiran Mehta,30,1,Jaipur,Design,PhD,8,66k,81%,Good,2015-08-12,kiran.mehta48@gmail.com,9641978575,
+EMP1144,Vivek Trivedi,33,Male,Jaipur,Design,Diploma,8,63606,62,Poor,October 06 2019,vivek.trivedi87@gmail.com,9097384689,No
+EMP1259,Kavita Nair,23,F,Bangalore,Finance,High School,0,32396,68,Good,29/04/2016,kavita.nair80@gmail.com,9156326868,Yes
+EMP1054,Ravi Pandey,50,Female,Jaipur,Marketing,High School,27,153011,5800.0,Poor,2023-03-16,ravi.pandey83@gmail.com,9599534283,Yes
+EMP1195,Rajesh Malhotra,32,Female,Hyderabad,Legal,PhD,7,47k,40,Average,2021-12-17,rajesh.malhotra47@gmail.com,9200749465,Yes
+EMP1163,Sunil Patel,31,Male,Ahmedabad,HR,Master's,8,52733,57,Good,2022-02-19,sunil.patel55@gmail.com,9044818321,Yes
+EMP1209,Geeta Singh,47,,Mumbai,Marketing,Bachelor's,23 yrs,136120,58,Good,2023-02-23,geeta.singh37@gmail.com,9768151185,No
+EMP1380,Sunil Joshi,35,Male,Mumbai,Operations,Bachelor's,10,66274,62,Good,09/05/2015,sunil.joshi42@gmail.com,9627765725,Yes
+EMP1233,Pooja Mishra,23,Female,Hyderabad,Sales,High School,0,not disclosed,73,Excellent,2022-02-07,pooja.mishra39@gmail.com,9356708604,No
+EMP1382,Puja Saxena,36,Male,Surat,Marketing,PhD,12,78839,97,Excellent,2017-07-28,puja.saxena95@gmail.com,9946408303,Yes
+EMP1302,Lakshmi Rao,24,Female,Surat,Sales,PhD,2,35068,99,Excellent,2019-06-30,lakshmi.rao12@gmail.com,,Yes
+EMP1276,Neha Sharma,51,Male,Pune,Data Science,Diploma,28,154389,43,Good,2021-11-04,,9517244472,Yes
+EMP1106,Rajesh Nair,24,Male,Hyderabad,Legal,Master's,0,30390,98,Average,invalid,rajesh.nair93@gmail.com,9518449892,Yes
+EMP1319,Geeta Sharma,30,Female,Bangalore,HR,PhD,8,53004,78,Poor,2022-05-31,geeta.sharma47@gmail.com,9596262282,Yes
+EMP1392,Shreya Trivedi,34 years,Female,Pune,Engineering,Master's,10,75446,88,,invalid,shreya.trivedi73@gmail.com,9368011923,No
+EMP1024,Seema Kumar,26,Male,Pune,Support,Master's,1,27695,69,Excellent,2019-04-25,seema.kumar71@gmail.com,9136959440,No
+EMP1043,Kiran Kumar,42,Male,Hyderabad,Operations,Diploma,18,not disclosed,5600.0,Poor,2021-03-06,kiran.kumar45@gmail.com,9249818299,No
+EMP1308,Neha Iyer,58,Male,Surat,Engineering,,35,189597,58,Excellent,2019-02-28,neha.iyer82@gmail.com,9544294774,No
+EMP1324,Shreya Kumar,N/A,Male,Bangalore,Design,PhD,14,86145,93,Good,2017-07-15,shreya.kumar45@gmail.com,9261923724,Yes
+EMP1271,Kavita Saxena,,Male,Mumbai,Engineering,Master's,27,145k,52,,2015-09-01,kavita.saxena27@gmail.com,9385037199,Yes
+EMP1345,Amit Verma,-5,Male,Mumbai,Operations,Diploma,4,38119,77,Average,2018-09-17,amit.verma95@gmail.com,9191023121,No
+EMP1082,Ranjit Chopra,23,Male,Bangalore,Support,PhD,0,16754,,Good,2017-02-17,ranjit.chopra62@gmail.com,9884443106,No
+EMP1166,Shreya Rao,-5,Male,Delhi,HR,Master's,8,64896,53,Poor,2016-04-07,shreya.rao50@gmail.com,9171827548,
+EMP1222,Deepak Chopra,40,Male,Kolkata,Engineering,Master's,17,98401,94,Poor,2015-08-04,deepak.chopra32@gmail.com,9764208656,No
+EMP1445,Aarav Mishra,32,female,Bangalore,Sales,Bachelor's,9,65137,51,Average,2020-05-13,aarav.mishra98gmail.com,9746259160,Yes
+EMP1124,Sanjay Malhotra,57,Male,Delhi,,Master's,32,172994,96,Good,2017-01-08,,,No
+EMP1442,Rekha Shah,28,Female,Hyderabad,Operations,Diploma,5,50427,,Good,2021-02-14,rekha.shah64@gmail.com,9989396987,Yes
+EMP1101,Kavita Pandey,38,Female,Chennai,Engineering,Diploma,14,94852,91,Average,2015-06-29,kavita.pandey47gmail.com,,Yes
+EMP1459,Sunita Mehta,24,,Pune,Legal,Diploma,0,22267,83,Average,2020-04-02,sunita.mehta47@gmail.com,9357483526,Yes
+EMP1076,Neha Tiwari,,Male,Delhi,Legal,Master's,19,115308,59,Average,2016-05-06,neha.tiwari21@gmail.com,9249035213,Yes
+EMP1132,Amit Mishra,,Female,Mumbai,Support,PhD,23,131415,79,Excellent,2016-03-23,amit.mishra67@gmail.com,9703886086,No
+EMP1421,Kiran Gupta,53,Male,Pune,Legal,Master's,29,163238,8000.0,Good,2021-08-06,kiran.gupta64@gmail.com,9559428249,No
+EMP1150,Ananya Tiwari,40,Male,Hyderabad,HR,,18,108588,82,Poor,2022-10-21,ananya.tiwari59@gmail.com,9157173203,Yes
+EMP1387,Nisha Patel,39,Male,Jaipur,Legal,High School,15,100599,82,Excellent,2019-07-12,nisha.patel15@gmail.com,9461540211,
+EMP1026,Rajesh Iyer,46,Female,Pune,Sales,Bachelor's,21,110320,79,Good,2017-06-25,rajesh.iyer92@gmail.com,9174612004,No
+EMP1340,Manoj Mishra,48,Male,Ahmedabad,Data Science,PhD,23,,61,Good,22/06/2019,manoj.mishra27@gmail.com,9833339395,No
+EMP1466,Nisha Nair,48,M,Bangalore,Engineering,Bachelor's,23,130625,62,Average,2017-11-13,nisha.nair69@gmail.com,,Yes
+EMP1112,Manoj Saxena,22,Male,BANGALORE,Design,Diploma,0,33305 rupees,44,Excellent,2016-04-24,,9489476973,Yes
+EMP1306,Anjali Malhotra,54,1,Hyderabad,HR,PhD,30,157841,51,Average,2017-03-29,anjali.malhotra51@gmail.com,9241039773,No
+EMP1481,Shreya Rao,46,Male,Pune,Finance,PhD,,134846,60,Excellent,2015-10-25,shreya.rao32gmail.com,9151641195,No
+EMP1374,Rohit Joshi,45,Male,PUNE,Data Science,PhD,20,107559,78%,Excellent,2020-09-30,ROHIT.JOSHI80@GMAIL.COM,9707155348,Yes
+EMP1027,Neha Nair,45,Male,Pune,Legal,Master's,23,131546,57%,Poor,2020-02-06,,,Yes
+EMP1262,Pooja Mishra,36,Male,Bangalore,Operations,PhD,14,86007,76,Good,2017-04-25,pooja.mishra21@gmail.com,,Yes
+EMP1377,Rajesh Mishra,47,Male,Surat,,Master's,25,135446,50,Average,2015-09-29,rajesh.mishra50@gmail.com,9066626705,No
+EMP1110,Manish Chopra,33,Male,Jaipur,Legal,PhD,9,65548,76,Good,2022-11-29,manish.chopra60@gmail.com,9213721386,Yes
+EMP1469,Pooja Nair,30,Female,Ahmedabad,Data Science,Master's,7,49882,55,Good,March 05 2017,pooja.nair15gmail.com,9281650646,No
+EMP1204,Akash Chopra,53,Male,chennai,Support,PhD,31,161289,54,Poor,invalid,akash.chopra60@gmail.com,9346692548,Yes
+EMP1230,Suresh Chopra,40,Male,HYDERABAD,Engineering,Diploma,15,89625,99,,2020-10-12,suresh.chopra14@gmail.com,9797050975,No
+EMP1190,Neha Joshi,58,0,Mumbai,Data Science,Master's,35,191557,76,Poor,2018-05-10,neha.joshi46@gmail.com,9926831589,Yes
+EMP1484,Suresh Saxena,N/A,Female,Ahmedabad,Finance,High School,25,134096,64,Good,2022-09-29,suresh.saxena14@gmail.com,9450063553,Yes
+EMP1205,Preeti Shah,56,,Delhi,Finance,Bachelor's,34,171885,44,Good,2021-02-14,preeti.shah35@gmail.com,9535444392,Yes
+EMP1260,Amit Verma,56,Male,Chennai,Marketing,Diploma,31,167342,-1,,2022-10-04,amit.verma44@gmail.com,9732354940,No
+EMP1170,Nikhil Kumar,23,Female,Pune,Engineering,PhD,0,33613,72,Good,March 25 2015,nikhil.kumar99@gmail.com,9790569659,Yes
+EMP1421,Kiran Gupta,53,Male,Pune,Legal,Master's,29,163238,8000.0,Good,2021-08-06,kiran.gupta64@gmail.com,9559428249,No
+EMP1430,Priya Saxena,34,Male,Pune,Operations,PhD,12,69040,,Poor,invalid,priya.saxena82@gmail.com,9952970137,No
+EMP1056,Puja Reddy,47,0,Jaipur,Operations,Master's,22,129278,74,Good,2017-12-07,puja.reddy56@gmail.com,9877175355,Yes
+EMP1148,Kavita Singh,27,MALE,Surat,HR,PhD,4,36632,84,Average,2018-04-21,kavita.singh69@gmail.com,9174654214,Yes
+EMP1241,Deepak Sharma,N/A,Female,Ahmedabad,HR,High School,,129947,,Average,2020-02-29,deepak.sharma28@gmail.com,9863330212,Yes
+EMP1087,Anjali Patel,32,Female,Surat,Marketing,Bachelor's,9,62274,57,Good,2015-03-24,anjali.patel97@gmail.com,9072290349,No
+EMP1247,Shreya Gupta,35,Male,Surat,Engineering,Diploma,10,62044,99,Good,2019-10-28,shreya.gupta70@gmail.com,9303064421,Yes
+EMP1090,Sanjay Mehta,25,Male,,Finance,Bachelor's,2,not disclosed,88,Average,2015-12-27,sanjay.mehta26@gmail.com,9966667600,Yes
+EMP1097,Neha Tiwari,54,Female,Ahmedabad,Engineering,Diploma,32,177128,99,Good,2021-07-24,neha.tiwari71@gmail.com,9829221699,Yes
+EMP1116,Seema Kumar,40,Male,Pune,Legal,PhD,15,85069,64,Excellent,2022-01-31,seema.kumar28@gmail.com,9256996112,Yes
+EMP1083,Seema Pandey,33,Male,Kolkata,Operations,Bachelor's,,52462,56,Average,2017-12-14,seema.pandey38@gmail.com,9490211586,Yes
+EMP1413,Sanjay Singh,34,Male,Jaipur,Design,Bachelor's,10,76099,90,Average,2019-10-11,sanjay.singh39@gmail.com,9831828560,No
+EMP1408,Akash Gupta,57,female,Mumbai,Finance,High School,33,176852,96,Good,2022-10-18,akash.gupta82@gmail.com,9965082695,No
+EMP1213,Puja Tiwari,,Female,Chennai,Operations,High School,18,105452,88,Excellent,2018-09-18,puja.tiwari53@gmail.com,9338033968,No
+EMP1394,Deepak Reddy,N/A,Male,Ahmedabad ,Engineering,PhD,7,50k,42,Good,2023-02-13,deepak.reddy36@gmail.com,9546212760,No
+EMP1288,Akash Saxena,36,Male,Ahmedabad,Finance,PhD,12,80071,93,,2018-08-09,akash.saxena98@gmail.com,9996043878,Yes
+EMP1403,Harish Iyer,40,Female,SURAT,Sales,PhD,18,103002,65,Good,2018-11-17,harish.iyer27@gmail.com,9014911894,No
+EMP1491,Nisha Saxena,57,male,Chennai,Data Science,Bachelor's,34,168951,53,Excellent,2016-06-23,nisha.saxena15@gmail.com,9284719017,No
+EMP1337,Divya Saxena,38,Male,Delhi,Design,Bachelor's,16,105178,94,Average,04/06/2016,divya.saxena76gmail.com,9077113062,No
+EMP1273,Ravi Mehta,44,Female,Hyderabad,Finance,Bachelor's,19,116186 rupees,82,Good,2015-11-11,ravi.mehta19@gmail.com,9483753745,No
+EMP1225,Kavita Kumar,33,Male,Jaipur,Data Science,Master's,11,65782,48,Poor,2016-10-22,kavita.kumar21@gmail.com,9840118458,No
+EMP1089,Arjun Iyer,999,Female,Bangalore,Operations,High School,34,179641 rupees,54,Excellent,2018-09-19,arjun.iyer57@gmail.com,9494717099,Yes
+EMP1332,Arjun Mehta,33,F,Chennai,Operations,,8,59257,71%,Good,2017-12-03,arjun.mehta61@gmail.com,9335157184,No
+EMP1329,Amit Nair,50,Male,Hyderabad,HR,High School,26,139984,41,Average,2019-12-03,amit.nair63@gmail.com,9889362896,Yes
+EMP1478,Kiran Gupta,N/A,Female,Surat,Marketing,Diploma,27,136546,58,Good,2020-04-24,,9353236618,Yes
+EMP1373,Harish Gupta,24,male,Delhi,Support,Master's,0,18785,78,Good,2019-03-20,harish.gupta48@gmail.com,9505730362,Yes
+EMP1463,Divya Verma,26,,CHENNAI,Support,High School,3,39536,96,Average,2019-01-11,divya.verma54@gmail.com,9359520561,No
+EMP1014,Vikram Patel,,Female,Hyderabad,Engineering,Diploma,0,22816,-1,Average,2016-04-13,vikram.patel82@gmail.com,9374529912,No
+EMP1455,Aditya Rao,43,Female,Pune,Sales,PhD,18,110972,58,Good,2016-07-19,aditya.rao72@gmail.com,9469211882,No
+EMP1335,Sneha Malhotra,999,Male,CHENNAI,Design,,0,32621,43,Good,2020-09-13,sneha.malhotra77@gmail.com,9285031723,No
+EMP1120,Pooja Patel,39,Female,Kolkata,Sales,Diploma,14,83950 rupees,52,Excellent,2019-04-12,pooja.patel11@gmail.com,9136730371,Yes
+EMP1042,Sanjay Rao,54,MALE,Delhi,Marketing,Bachelor's,31,170688,41,Good,2021-06-02,sanjay.rao57@gmail.com,9782911467,No
+EMP1196,Neha Iyer,37,Male,PUNE,Operations,Bachelor's,12,88644,61,Excellent,2016-07-01,neha.iyer92@gmail.com,,No
+EMP1033,Swati Gupta,37,Male,Bangalore,Finance,Bachelor's,14,97739,49%,Good,2022/01/16,swati.gupta73@gmail.com,9799799552,No
+EMP1479,Manish Nair,57,1,JAIPUR,HR,High School,32,173245,99,Excellent,2017-11-23,manish.nair61@gmail.com,9735742233,No
+EMP1433,Rohit Gupta,23,Female,Delhi,Operations,High School,0,not disclosed,52,Excellent,2020-01-30,rohit.gupta23@gmail.com,9307351045,Yes
+EMP1310,Seema Malhotra,27,Female,Mumbai,Data Science,Diploma,4,41018,56,Average,2022-04-19,seema.malhotra41@gmail.com,9372094841,No
+EMP1338,Aditya Reddy,25,Male,Kolkata,HR,Master's,3,35880,51,Poor,2022-05-19,aditya.reddy66@gmail.com,9071398482,Yes
+EMP1305,Lakshmi Shah,56,Female,Kolkata,Marketing,PhD,31,169701,58,Average,2016-12-28,lakshmi.shah61@gmail.com,9408572169,No
+EMP1292,Sunita Singh,57,Male,Pune,HR,High School,33,not disclosed,89,Good,2019-10-04,sunita.singh37@gmail.com,9983652037,
+EMP1016,Manish Sharma,55,Female,Delhi,Marketing,PhD,30,168192,88,Poor,2020-05-04,manish.sharma92@gmail.com,9770143634,No
+EMP1158,Ananya Verma,47,MALE,Chennai,Sales,High School,24,132042,47,Average,2016-09-08,ananya.verma36@gmail.com,9804682756,Yes
+EMP1243,Manoj Pandey,32,Male,Pune ,Design,Bachelor's,8,750000 rupees,46,Good,2021-10-06,manoj.pandey52@gmail.com,9034281139,Yes
+EMP1066,Sanjay Mehta,50,Female,Mumbai,Operations,High School,25,131973,52,Good,2020-09-01,sanjay.mehta93@gmail.com,9767677219,No
+EMP1427,Aditya Shah,54,Female,Surat,Data Science,Master's,31,166696,82,Good,invalid,aditya.shah91@gmail.com,9860030443,No
+EMP1446,Manish Gupta,34,Female,Delhi,HR,Diploma,10,74551,99,Excellent,2018-01-24,manish.gupta67@gmail.com,9264261212,Yes
+EMP1119,Amit Shah,,Male,Jaipur,Finance,PhD,16,not disclosed,,Average,2016-03-28,amit.shah91@gmail.com,,Yes
+EMP1457,Sunita Tiwari,37,FEMALE,Bangalore ,Design,High School,12,86k,99,Good,26/05/2020,sunita.tiwari18@gmail.com,,Yes
+EMP1065,Seema Kumar,45,Male,Hyderabad,Data Science,High School,21,125539,73,Good,2019-05-11,seema.kumar88@gmail.com,9691557924,No
+EMP1474,Suresh Shah,27,FEMALE,Pune,HR,PhD,4,43587 rupees,90,Good,2019-04-11,suresh.shah60@gmail.com,9472130742,No
+EMP1009,Ravi Chopra,36,,Ahmedabad,Operations,Master's,13,80804,41,Poor,06/09/2018,ravi.chopra45@gmail.com,9145868501,Yes
+EMP1018,Ranjit Nair,55,F,Ahmedabad,Data Science,Master's,30,750k,76,Excellent,2016-02-11,ranjit.nair36@gmail.com,9341232812,No
+EMP1153,Suresh Rao,48,F,Jaipur,Marketing,Bachelor's,26,149373,46,Good,2021-01-19,suresh.rao74gmail.com,9373403127,Yes
+EMP1303,Arjun Iyer,39,Male,Surat,Operations,High School,16,94367,41,Good,2015-09-19,arjun.iyer88@gmail.com,9497969586,No
+EMP1256,Sunil Pandey,37,Female,Mumbai,Finance,High School,15,97631,58,Average,2019-07-08,,9880501716,
+EMP1388,Arjun Kumar,54,Female,Kolkata,Engineering,,30,168897,90,Poor,2021-02-20,arjun.kumar40@gmail.com,9063963845,Yes
+EMP1272,Priya Patel,23,Female,Hyderabad,Legal,Diploma,0,15592,75,Average,invalid,priya.patel58@gmail.com,9266821719,Yes
+EMP1133,Seema Gupta,47,Male,Pune,Data Science,High School,24,137866,77,Poor,2016-01-05,SEEMA.GUPTA42@GMAIL.COM,9521117518,Yes
+EMP1412,Meera Reddy,50 years,Male,Jaipur,Finance,Master's,26,151416,43,Average,June 28 2021,meera.reddy51@gmail.com,9026480164,Yes
+EMP1253,Aarav Kumar,58,M,Surat ,Engineering,High School,34,179363,70,Excellent,2020-11-07,aarav.kumar42@gmail.com,9139080882,No
+EMP1270,Akash Chopra,34,Female,Hyderabad,Support,PhD,10,71681,79,Average,2015-10-03,akash.chopra66@gmail.com,9661912841,Yes
+EMP1161,Rajesh Pandey,31,Male,Kolkata,Operations,PhD,7,46899,58,,2018-06-15,rajesh.pandey67@gmail.com,9813767426,Yes
+EMP1286,Manish Nair,999,Male,MUMBAI,Legal,High School,0,30889,42,Average,2018-05-19,manish.nair13@gmail.com,9330416624,Yes
+EMP1362,Kavita Singh,32,female,Bangalore,Support,Diploma,10 yrs,74355,71,Good,2022-11-02,kavita.singh65@gmail.com,9085816704,Yes
+EMP1341,Sanjay Tiwari,23,,Hyderabad,Design,Diploma,0,not disclosed,87,Average,2019-07-05,sanjay.tiwari83@gmail.com,9326573275,No
+EMP1346,Ananya Kumar,34,,Bangalore,Legal,Diploma,11,68563,84,Good,2017-02-05,ananya.kumar51@gmail.com,9326949684,No
+EMP1435,Rahul Saxena,22,Male,Hyderabad,Sales,Master's,0,16385,56,Excellent,2021-08-12,rahul.saxena48@gmail.com,9976987313,Yes
+EMP1001,Divya Trivedi,45,1,Hyderabad,Sales,High School,22,123482,45,,2016-02-18,divya.trivedi58@gmail.com,9475255341,Yes
+EMP1224,Neha Rao,-5,Male,Delhi,Sales,High School,0,not disclosed,54,Excellent,2021-06-04,neha.rao83@gmail.com,9741926764,No
+EMP1207,Puja Saxena,47,Male,Hyderabad,Design,High School,22,120171,,Good,2021-05-21,puja.saxena67@gmail.com,9412182097,Yes
+EMP1117,Deepak Kumar,47,,Delhi,Sales,PhD,25,128363,89,Good,2015-12-07,deepak.kumar23@gmail.com,9492164334,No
+EMP1432,Ranjit Verma,45,male,Surat,Operations,Master's,21,123431,93,Average,2017-10-26,,9124760108,No
+EMP1360,Ravi Chopra,-5,Male,Mumbai,Finance,PhD,17,109162,89,Good,2022-09-21,ravi.chopra85@gmail.com,9957060717,Yes
+EMP1368,Nisha Trivedi,58,female,Chennai,Legal,Master's,35,177471,41,Good,2017-06-19,nisha.trivedi31@gmail.com,9638902199,Yes
+EMP1264,Anjali Mishra,47,Male,Chennai,Finance,Diploma,23,124178,76,Good,2018-08-13,anjali.mishra84@gmail.com,,No
+EMP1274,Pooja Patel,,Male,Ahmedabad,Data Science,,15,98848,93,Excellent,2018-02-12,pooja.patel85@gmail.com,9641049670,Yes
+EMP1070,Shreya Verma,36,Male,Delhi,Sales,High School,12,,96,Excellent,2019-04-17,shreya.verma27@gmail.com,9218909275,No
+EMP1128,Divya Sharma,43,Male,Delhi,Finance,PhD,18,96745,61,Poor,2021-01-12,divya.sharma37@gmail.com,9388487920,No
+EMP1031,Rajesh Joshi,42,Female,Surat,Support,High School,20,110098,,Excellent,2015-12-01,,9767976438,No
+EMP1098,Deepak Reddy,N/A,Female,Chennai,Operations,Bachelor's,12,85511,74,Good,invalid,deepak.reddy55@gmail.com,9879968460,No
+EMP1372,Manoj Gupta,32,Male,Ahmedabad,HR,Bachelor's,9,75454,93,Good,2018-02-17,manoj.gupta69@gmail.com,9372132901,No
+EMP1021,Kiran Joshi,57,Male,jaipur,Design,High School,34 yrs,171717,69,Good,2016-09-22,kiran.joshi73@gmail.com,9484677378,No
+EMP1193,Geeta Shah,34,,Ahmedabad,Legal,High School,12,,51,Excellent,2017-04-22,geeta.shah41@gmail.com,9971895690,Yes
+EMP1005,Rohit Nair,34,F,Jaipur,Data Science,Bachelor's,9,61512,57,Average,2015-11-05,rohit.nair66@gmail.com,9810801326,No
+EMP1418,Nikhil Chopra,,Male,Kolkata,HR,Diploma,10,73226,100%,Poor,2022-10-16,nikhil.chopra38@gmail.com,9589513818,Yes
+EMP1313,Suresh Mehta,44,Female,Pune,Data Science,Master's,19,118957,65,Good,2019-07-14,suresh.mehta17@gmail.com,9652740334,Yes
+EMP1135,Divya Trivedi,58,Female,Jaipur,HR,PhD,34,169174,150,Excellent,2019-02-18,divya.trivedi58@gmail.com,9168147214,Yes
+EMP1444,Rekha Patel,42,Female,Kolkata,Finance,Bachelor's,20,115182,60,Good,2019-01-31,rekha.patel72@gmail.com,9758097453,Yes
+EMP1383,Manish Joshi,29,Female,Hyderabad,Design,Diploma,,43307,74,Poor,2022-09-07,,9153701242,Yes
+EMP1327,Swati Rao,37,Male,Ahmedabad,Engineering,Master's,12,77623,89,Average,2021-04-06,swati.rao80@gmail.com,9565271559,No
+EMP1198,Meera Sharma,56,Female,CHENNAI,Legal,PhD,34,181k,,Excellent,August 16 2018,meera.sharma65@gmail.com,9641877580,Yes
+EMP1423,Rajesh Joshi,35,Male,Jaipur,Marketing,Bachelor's,13,77881,52,Good,2017-03-30,rajesh.joshi87@gmail.com,9204910601,No
+EMP1203,Ranjit Mishra,26,male,Bangalore,HR,Bachelor's,3,45950,64,Good,2021-09-21,ranjit.mishra64@gmail.com,9309938425,Yes
+EMP1067,Vivek Singh,37,Male,Mumbai,Data Science,Master's,13,76350,68,Good,2017-08-28,vivek.singh36@gmail.com,9959629233,Yes
+EMP1223,Shreya Joshi,31,Female,HYDERABAD,Marketing,High School,7,65363,46,Average,2019-10-16,shreya.joshi96@gmail.com,9201572018,Yes
+EMP1127,Geeta Reddy,N/A,Female,Jaipur,Marketing,Bachelor's,35,181224,8900.0,Good,2022-09-05,geeta.reddy83@gmail.com,9116655355,Yes
+EMP1143,Manish Rao,29,0,Chennai,Engineering,Bachelor's,4,52k,65%,Good,April 17 2019,manish.rao61@gmail.com,9668327238,No
+EMP1326,Geeta Pandey,55,Female,Kolkata,Engineering,,33,182844,93%,Good,2016-01-24,geeta.pandey25@gmail.com,9359966057,No
+EMP1139,Aditya Patel,28,Female,Chennai,Engineering,Diploma,4,1200000,60,Poor,19/03/2018,aditya.patel45gmail.com,9857142241,No
+EMP1218,Rahul Sharma,24 years,Male,Hyderabad,Legal,High School,0,34758,73,Excellent,2020-04-22,rahul.sharma53@gmail.com,9965555356,Yes
+EMP1030,Suresh Rao,28,Female,Jaipur,Marketing,Bachelor's,3,35848,94%,Good,2021-03-28,suresh.rao57gmail.com,9149368998,Yes
+EMP1330,Arjun Singh,54,1,Ahmedabad,Legal,Master's,,178794,54,Good,2022-11-15,arjun.singh92@gmail.com,9837490797,No
+EMP1157,Rajesh Tiwari,24,Male,Pune,HR,Diploma,2,42374,85,Poor,2018-10-03,rajesh.tiwari40@gmail.com,9817933554,No
+EMP1094,Kiran Singh,N/A,Female,Ahmedabad,Support,PhD,25,139943,89,Good,2015-04-29,kiran.singh97@gmail.com,9277167014,No
+EMP1255,Rajesh Rao,31,Female,Pune,Sales,High School,7,46857,85,Good,2020-03-21,RAJESH.RAO82@GMAIL.COM,9538164938,No
+EMP1480,Swati Pandey,,Male,Bangalore,Support,Master's,,36176,81,Excellent,2017-09-19,swati.pandey91@gmail.com,9731180467,Yes
+EMP1131,Rahul Gupta,34,1,Bangalore,HR,High School,10,79844,76,Poor,2017-08-09,rahul.gupta39@gmail.com,9051728975,No
+EMP1226,Ravi Reddy,31,Male,Hyderabad ,HR,Diploma,8,70391,62,Excellent,2023-03-06,ravi.reddy89@gmail.com,9618446267,No
+EMP1039,Aditya Chopra,,Female,Bangalore,Sales,PhD,11,74115,52,Excellent,2017-03-28,aditya.chopra15@gmail.com,9548687403,Yes
+EMP1488,Vivek Verma,58,Female,Hyderabad,Sales,Master's,34,not disclosed,59,Poor,2022/10/20,vivek.verma51@gmail.com,9663113885,Yes
+EMP1499,Akash Singh,32,M,Hyderabad,Sales,Diploma,10,61868,54,Good,2019-08-06,akash.singh12@gmail.com,9200053285,Yes
+EMP1189,Manoj Tiwari,35,,Surat,Support,PhD,11,77754,89,Poor,2015-12-12,manoj.tiwari14@gmail.com,9856288431,Yes
+EMP1453,Ananya Verma,22,Male,Kolkata,Operations,Master's,0,17958,85,Poor,2015-01-07,ananya.verma67gmail.com,9851699497,Yes
+EMP1440,Ravi Mishra,30,1,Kolkata,Data Science,,5,57224,76,Good,2015-04-01,ravi.mishra89@gmail.com,9114131935,Yes
+EMP1248,Vivek Rao,N/A,Male,Mumbai,,Diploma,35,,86,Average,2022-06-13,vivek.rao50@gmail.com,9027275164,Yes
+EMP1038,Seema Sharma,54,Female,,HR,Master's,29,145551,79,Good,2021-05-26,SEEMA.SHARMA63@GMAIL.COM,9218518888,No
+EMP1242,Suresh Chopra,48,Male,Pune,Data Science,High School,24,126645,49,Excellent,2015-05-12,suresh.chopra87@gmail.com,9282066784,No
+EMP1353,Sunita Nair,37,Male,Jaipur,Engineering,High School,14,93685,42%,Excellent,2017-08-10,sunita.nair29@gmail.com,9285566084,No
+EMP1416,Vikram Trivedi,26,Male,AHMEDABAD,Data Science,Diploma,1,32098,74,Average,2021-12-29,vikram.trivedi83@gmail.com,9687225893,Yes
+EMP1138,Amit Rao,50,Female,Chennai,Marketing,Diploma,26,137734,47,Good,2015-06-03,amit.rao35gmail.com,9178078235,Yes
+EMP1022,Nikhil Malhotra,56,Male,,Operations,Bachelor's,33,182236,64,Poor,2019-08-10,nikhil.malhotra15@gmail.com,9576627028,Yes
+EMP1159,Kiran Iyer,36,Male,Pune,Finance,High School,13,85071,58,Average,invalid,kiran.iyer30@gmail.com,9842222310,No
+EMP1025,Arjun Singh,24,Male,Ahmedabad,Engineering,Diploma,0,19k,45,Excellent,2019-08-29,arjun.singh32@gmail.com,9328588424,Yes
+EMP1183,Deepak Kumar,27,Male,,Finance,High School,2,41510,41%,Excellent,2016-04-22,deepak.kumar11@gmail.com,9277697499,Yes
+EMP1240,Pooja Mehta,31,Male,Ahmedabad,Data Science,High School,9,74434,67,Excellent,2016-01-06,pooja.mehta51@gmail.com,9226557676,No
+EMP1013,Rekha Malhotra,N/A,male,surat,Marketing,PhD,33,172443,67,Average,2019-05-12,,9627298069,Yes
+EMP1145,Vikram Malhotra,41,F,Mumbai,Operations,Diploma,19,115863,150,Average,2018-09-19,,9544209494,No
+EMP1415,Priya Kumar,30,Male,Pune,Engineering,Diploma,7,64269,67,Excellent,2018-04-10,priya.kumar92@gmail.com,,No
+EMP1314,Harish Nair,39,Female,Surat,Design,High School,17,93338,80,Good,2021-01-12,harish.nair57@gmail.com,9741721562,Yes
+EMP1361,Priya Shah,50,Male,,HR,PhD,26,150515,64,Excellent,2021-07-26,priya.shah25@gmail.com,9872742049,Yes
+EMP1078,Seema Sharma,46,0,Pune,Data Science,Diploma,21,120773,98,Good,2018-01-12,seema.sharma33@gmail.com,9059304078,Yes
+EMP1320,Anjali Trivedi,55,Female,Bangalore,Sales,High School,31,161797,45,Good,2016-04-05,anjali.trivedi70@gmail.com,9768729047,Yes
+EMP1485,Swati Singh,32,Female,Bangalore,Data Science,PhD,,69477,59,Poor,2018-07-10,swati.singh88@gmail.com,9489895965,Yes
+EMP1221,Lakshmi Pandey,58,Male,Mumbai,Finance,High School,35 yrs,185218,67,Good,2019-02-04,lakshmi.pandey96@gmail.com,9289931608,Yes
+EMP1396,Amit Patel,54,Female,Surat ,Legal,High School,31,172162,75,Good,2020-11-20,amit.patel78@gmail.com,,
+EMP1052,Preeti Reddy,58,,,HR,Master's,33,167308,-1,Poor,2021-07-16,preeti.reddy72@gmail.com,9187072867,No
+EMP1464,Arjun Reddy,34,Female,Chennai,Finance,Diploma,10,67373,41,Excellent,2020-07-03,arjun.reddy68@gmail.com,9625503250,Yes
+EMP1034,Ravi Tiwari,58,Male,Hyderabad,Operations,Diploma,33,179928,49,Excellent,2016-02-28,ravi.tiwari53@gmail.com,9182037788,Yes
+EMP1334,Ravi Rao,,FEMALE,Surat,Sales,Diploma,3,39003,98,Good,2021-02-15,ravi.rao92@gmail.com,9345273466,Yes
+EMP1495,Deepak Kumar,42,Male,Hyderabad,Finance,Bachelor's,17,107818,-1,Good,2016-11-29,deepak.kumar30@gmail.com,9592061658,Yes
+EMP1376,Kiran Chopra,29,Male,Ahmedabad,Operations,Diploma,5,52865,56,Good,2022-06-16,kiran.chopra51@gmail.com,9829849330,No
+EMP1184,Aditya Gupta,52,Male,Mumbai,Sales,Bachelor's,29,160090,71,Average,2020-01-16,aditya.gupta84@gmail.com,9334960501,Yes
+EMP1311,Sunil Reddy,53,Male,Surat,Engineering,Diploma,28,144654,86,Average,2022-03-17,sunil.reddy34gmail.com,9997046947,Yes
+EMP1325,Sunita Singh,51,Male,Surat,HR,PhD,27,143860,73%,Good,2023-03-17,sunita.singh87@gmail.com,9953766014,Yes
+EMP1187,Rohit Trivedi,28,Female,JAIPUR,Engineering,Diploma,6,47473,80,Good,2017-04-21,rohit.trivedi56@gmail.com,9247871255,Yes
+EMP1284,Harish Chopra,47,Female,Pune,Legal,PhD,23,121663,54%,Good,2018-03-22,harish.chopra63@gmail.com,9753612751,Yes
+EMP1391,Akash Iyer,N/A,Male,Jaipur,Finance,PhD,6,44063,76,Good,2018-03-04,akash.iyer42@gmail.com,9389982780,No
+EMP1387,Nisha Patel,39,Male,Jaipur,Legal,High School,15,100599,82,Excellent,2019-07-12,nisha.patel15@gmail.com,9461540211,
+EMP1468,Rohit Shah,30,male,Ahmedabad,HR,High School,8,56820,75,,2018-04-21,,,No
+EMP1165,Sunil Patel,52,Male,Chennai,Engineering,High School,28,,,Good,2016-05-22,sunil.patel87@gmail.com,9393250124,Yes
+EMP1402,Sunil Verma,34,,Hyderabad,HR,PhD,10,not disclosed,42,Good,2015-05-23,,9198756178,Yes
+EMP1298,Sanjay Joshi,41,Male,Bangalore,Marketing,Bachelor's,16,89954,86,Poor,2022-09-05,sanjay.joshi81@gmail.com,9507251786,No
+EMP1023,Lakshmi Chopra,56,Male,Surat,Sales,Bachelor's,32,166454,87,Good,2016-02-08,lakshmi.chopra91@gmail.com,9172400504,Yes
+EMP1475,Sneha Tiwari,58,Male,Hyderabad,Data Science,Bachelor's,36,177592,41,Good,14/12/2020,sneha.tiwari55@gmail.com,9221158718,Yes
+EMP1347,Ananya Mehta,45,Male,Surat,Sales,Diploma,21,119955,68,Good,invalid,ananya.mehta57@gmail.com,9747583392,No
+EMP1429,Ranjit Patel,50,Female,Pune,Legal,PhD,27,,99%,Poor,2018-04-17,ranjit.patel83@gmail.com,9366538027,Yes
+EMP1182,Shreya Joshi,31,M,Chennai,Marketing,Diploma,6,51682,7600.0,Excellent,2015-11-10,shreya.joshi15@gmail.com,9818661794,No
+EMP1343,Geeta Rao,43,Male,Pune,Sales,Bachelor's,20,114833,83,Good,2016-03-30,geeta.rao95@gmail.com,9354159709,No
+EMP1041,Vikram Saxena,30,male,Pune,Design,Master's,6,50179,150,Excellent,01/02/2017,vikram.saxena73@gmail.com,9868144739,No
+EMP1356,Suresh Gupta,38,,Hyderabad,Sales,High School,,79220,40,Good,2023-02-16,suresh.gupta40@gmail.com,9798440971,
+EMP1236,Kiran Nair,24,Female,Hyderabad,Finance,High School,1,28601 rupees,99,Average,2015-07-31,kiran.nair92@gmail.com,9338105955,Yes
+EMP1454,Geeta Singh,52,Female,Ahmedabad,Support,,28,142003,63,Good,invalid,geeta.singh68@gmail.com,9197609320,No
+EMP1350,Amit Chopra,58,Male,Mumbai,Operations,Diploma,36,189587,88,Average,2018-08-10,amit.chopra20@gmail.com,9877941763,No
+EMP1075,Anjali Joshi,28,MALE,Jaipur,Marketing,PhD,3,30462,49,Excellent,2015-06-29,anjali.joshi39@gmail.com,9865719182,Yes
+EMP1031,Rajesh Joshi,42,Female,Surat,Support,High School,20,110098,,Excellent,2015-12-01,,9767976438,No
+EMP1349,Nikhil Joshi,49,Female,Delhi,Support,Bachelor's,25,138677,86,Good,2022-09-21,nikhil.joshi26@gmail.com,9597107563,Yes
+EMP1045,Suresh Chopra,23,Male,Kolkata,Legal,PhD,0,22049,-1,Good,2015-07-27,suresh.chopra46@gmail.com,9797480162,Yes
+EMP1473,Harish Pandey,23,Male,Chennai,Operations,PhD,0,33471,83,Excellent,invalid,,9694535365,Yes
+EMP1108,Kiran Nair,48,0,Bangalore,Support,Bachelor's,24,not disclosed,86,Good,2021-09-09,kiran.nair85@gmail.com,9136621038,Yes
+EMP1105,Preeti Sharma,47,Female,Surat,Marketing,High School,23,136308,97,Average,2016-08-31,preeti.sharma56@gmail.com,9639427881,No
+EMP1149,Vikram Verma,58,Male,CHENNAI,Data Science,High School,33,168377,81,Excellent,2022-06-15,vikram.verma59@gmail.com,9425690877,Yes
+EMP1029,Puja Mishra,28,female,Delhi,Legal,Bachelor's,3,43296,9600.0,Poor,2018-10-20,puja.mishra68@gmail.com,9661565452,Yes
+EMP1181,Kiran Pandey,47,Male,Bangalore,Sales,Master's,22,,87,Excellent,2021-10-07,kiran.pandey26@gmail.com,9515837767,No
+EMP1109,Rajesh Patel,55,,Hyderabad,Data Science,PhD,31,1200000,91,Good,2016-07-02,rajesh.patel42@gmail.com,9731498643,Yes
+EMP1419,Geeta Verma,29,FEMALE,Surat,Data Science,Bachelor's,7,53025,73,Good,2017-08-24,GEETA.VERMA44@GMAIL.COM,9015364154,No
+EMP1122,Sanjay Malhotra,44,Male,Ahmedabad,Finance,Diploma,21,111756,73,Average,2018-04-26,sanjay.malhotra43@gmail.com,9857086209,Yes
+EMP1477,Lakshmi Tiwari,34,Male,Kolkata,Engineering,Diploma,10,67428,76,Good,2017-06-10,lakshmi.tiwari60@gmail.com,9817203136,Yes
+EMP1104,Rohit Joshi,26,Female,Pune,,PhD,2,34016,84,Average,2021-05-10,rohit.joshi56@gmail.com,9562053364,No
+EMP1060,Manish Pandey,49,female,Surat,Design,High School,25,,150,Good,invalid,manish.pandey29@gmail.com,9626551104,Yes
+EMP1146,Pooja Tiwari,45,Female,bangalore,Finance,Bachelor's,20,110924,91,Excellent,2015-12-12,pooja.tiwari28@gmail.com,9927663723,Yes
+EMP1083,Seema Pandey,33,Male,Kolkata,Operations,Bachelor's,,52462,56,Average,2017-12-14,seema.pandey38@gmail.com,9490211586,Yes
+EMP1315,Deepak Kumar,,,Hyderabad,Data Science,Master's,18,102520,83,Excellent,2021-10-08,deepak.kumar12@gmail.com,9216667080,Yes
+EMP1381,Sanjay Mishra,24,Female,Mumbai,Operations,Master's,0,26048,40,Good,2020-08-14,sanjay.mishra35@gmail.com,9325848689,Yes
+EMP1422,Lakshmi Mehta,26,Female,Mumbai,Operations,Master's,1,20607,73,Poor,2022-02-05,lakshmi.mehta64gmail.com,9821444889,No
+EMP1438,Ananya Kumar,54,Male,surat,Finance,Bachelor's,29,163839,97,Average,2023-02-22,ananya.kumar60@gmail.com,9970409531,Yes
+EMP1227,Puja Nair,26,Male,Delhi,Legal,High School,1,21661,61,Good,2018-09-28,puja.nair44@gmail.com,9234016361,Yes
+EMP1448,Harish Kumar,23,Female,Jaipur,Legal,PhD,0,17384,97,Average,invalid,harish.kumar11@gmail.com,9801963045,Yes
+EMP1151,Seema Gupta,999,FEMALE,Mumbai,HR,PhD,14,93440,98,Excellent,2022-11-12,seema.gupta93@gmail.com,9202041792,No
+EMP1000,Kavita Sharma,39,Female,Hyderabad,HR,High School,17,110849,67,Excellent,2016-01-19,KAVITA.SHARMA37@GMAIL.COM,9389083863,Yes
+EMP1267,Shreya Chopra,N/A,Male,Delhi,Support,,16,750000,65,Good,2016-03-15,shreya.chopra69@gmail.com,9662047196,No
+EMP1496,Aditya Gupta,48,F,Surat,Finance,Bachelor's,26,146138,-1,Good,2022-06-09,aditya.gupta43@gmail.com,9980851331,Yes
+EMP1088,Suresh Singh,52,F,Pune,Finance,Master's,28,149557,81,Excellent,2016-09-06,suresh.singh76@gmail.com,9309652074,No
+EMP1077,Ananya Saxena,38,Female,Delhi,Engineering,High School,15,97030,91,Average,September 20 2018,ananya.saxena25@gmail.com,9070296670,Yes
+EMP1268,Pooja Rao,58,F,Ahmedabad,HR,Master's,34,,44,Average,2020-04-16,pooja.rao87@gmail.com,9298842599,Yes
+EMP1417,Ravi Sharma,29,Female,Chennai,Legal,Bachelor's,5,49772,57,Excellent,2020-11-14,ravi.sharma60@gmail.com,9796325942,No
+EMP1123,Meera Singh,53,Female,Delhi,Engineering,Diploma,28,157053 rupees,-1,Excellent,2019-02-09,meera.singh38@gmail.com,9910371705,Yes
+EMP1297,Manoj Chopra,37,Male,Pune,Support,Master's,12,82144,59,Excellent,2020-09-07,manoj.chopra23@gmail.com,9664969028,No
+EMP1369,Neha Tiwari,31,Male,Kolkata,Support,PhD,9,73236,88,Excellent,2022-07-20,neha.tiwari72@gmail.com,,No
+EMP1095,Ranjit Patel,22,Male,Bangalore,Legal,PhD,0 yrs,20419,44,Average,2017-09-13,ranjit.patel52@gmail.com,9408386631,Yes
+EMP1494,Anjali Mehta,38,M,Kolkata,Marketing,Bachelor's,16,104680,92,Poor,2018-04-02,anjali.mehta47@gmail.com,9470488789,No
+EMP1011,Amit Joshi,36,Female,Hyderabad,HR,High School,14,86023,70,Good,2019-08-25,amit.joshi90@gmail.com,9936763201,Yes
+EMP1114,Preeti Iyer,47,Female,Surat,HR,High School,22,129673,100,Excellent,2018-11-23,preeti.iyer60@gmail.com,9271875003,No
+EMP1331,Arjun Pandey,35,Male,Ahmedabad,Finance,Diploma,11,75330,54,Good,2021-01-19,arjun.pandey97@gmail.com,9950905911,No
+EMP1428,Swati Sharma,27,FEMALE,Hyderabad,Data Science,Master's,4,34857,79,Poor,2021-06-19,swati.sharma63@gmail.com,9713971912,Yes
+EMP1257,Lakshmi Mishra,36,Female,Delhi,Marketing,Master's,14,79720,56,Excellent,2015-07-16,lakshmi.mishra48@gmail.com,9145964229,Yes
+EMP1219,Rekha Reddy,22,Male,Pune,Engineering,Master's,0,25666,150,Average,2021-10-21,rekha.reddy72@gmail.com,9691567164,No
+EMP1437,Sunil Tiwari,31,Male,Delhi,Data Science,High School,7,63153 rupees,41%,Good,2019-06-23,sunil.tiwari43@gmail.com,9482217588,No
+EMP1252,Aditya Rao,33,female,Hyderabad,Finance,Bachelor's,10,72389,,Excellent,2015-07-31,aditya.rao45@gmail.com,9120911791,No
+EMP1352,Pooja Mehta,46,Female,Mumbai,Design,Master's,,115k,60,Excellent,2018-03-04,pooja.mehta51@gmail.com,9990802711,No
+EMP1492,Rekha Singh,33,Male,Mumbai,Design,Master's,10,77590,95,Average,2022-08-07,rekha.singh70@gmail.com,9258122590,No
+EMP1261,Aarav Trivedi,44,Male,Surat,Engineering,PhD,21,124985,47,Excellent,2015-03-13,aarav.trivedi82@gmail.com,9438822114,Yes
+EMP1443,Ravi Rao,,M,Ahmedabad,Sales,PhD,7,53940,93,Good,2019-09-22,ravi.rao50@gmail.com,9362189455,No
+EMP1178,Aarav Iyer,54,Female,Kolkata,Finance,PhD,30,154333,97,Excellent,2017-01-04,aarav.iyer43@gmail.com,9287572158,No
+EMP1410,Puja Verma,42,Male,Ahmedabad,Design,Bachelor's,19,119586,100,Average,2019-08-12,puja.verma90@gmail.com,9205344077,No
+EMP1278,Deepak Pandey,24,Male,Bangalore,Design,High School,2,31359,76,Good,2016-05-11,deepak.pandey77@gmail.com,9097887543,No
+EMP1019,Sneha Kumar,N/A,Female,,Finance,PhD,19,115858,84,Excellent,2019-07-07,sneha.kumar44@gmail.com,9887719065,No
+EMP1355,Aarav Reddy,33,Female,Pune,Marketing,PhD,8,61726,69,Good,2016-11-07,aarav.reddy72@gmail.com,,No
+EMP1169,Anjali Chopra,29 years,Female,AHMEDABAD,Legal,Diploma,4,48594,150,Average,2015-08-17,anjali.chopra60@gmail.com,9479695450,No
+EMP1239,Anjali Gupta,44,Male,Chennai,Marketing,PhD,22,130115,50,Good,2016-02-21,anjali.gupta46@gmail.com,9519515109,No
+EMP1277,Ravi Trivedi,37,Male,Delhi,Sales,Diploma,12,not disclosed,72,Good,2017-04-15,ravi.trivedi51@gmail.com,9956164205,No
+EMP1160,Seema Shah,43,F,Chennai,Data Science,Master's,20,123521,,Average,September 23 2022,seema.shah24@gmail.com,9702814069,Yes
+EMP1073,Kavita Sharma,43,,,Finance,Diploma,21,118116 rupees,85,,2020-02-08,kavita.sharma75@gmail.com,9507925241,Yes
+EMP1017,Akash Trivedi,40,Male,Hyderabad,Finance,Bachelor's,16,92879,59,Excellent,2020-12-27,akash.trivedi26@gmail.com,9400842710,No
+EMP1062,Sanjay Pandey,42,Male,Ahmedabad,Support,Bachelor's,18,108322,57,Good,2016-04-11,sanjay.pandey82@gmail.com,9398280737,Yes
+EMP1249,Rajesh Sharma,41,Male,Jaipur,Sales,PhD,16,100567,66,Good,2021-01-30,rajesh.sharma64@gmail.com,9851276528,Yes
+EMP1228,Manish Trivedi,47,Male,Surat,HR,Master's,25,144328,85,Average,2016-06-01,manish.trivedi28@gmail.com,9694053967,No
+EMP1238,Aarav Trivedi,28,Male,Kolkata,Engineering,,6,43433,48,Poor,2015/12/09,aarav.trivedi44@gmail.com,,Yes
+EMP1229,Sneha Verma,40,Female,Ahmedabad,Engineering,PhD,17,107217,71,Good,2015-02-26,sneha.verma88@gmail.com,9306853890,Yes
+EMP1318,Kiran Reddy,29,Male,Surat,Operations,Master's,4,39258,53,Good,2020-09-07,kiran.reddy56@gmail.com,9748170066,Yes
+EMP1283,Lakshmi Reddy,57,M,Mumbai,Engineering,Bachelor's,34,187213,64,Poor,2017-03-12,lakshmi.reddy43@gmail.com,9727274231,No
+EMP1047,Sunil Saxena,36,Male,Mumbai,Support,PhD,13,90678,80,Good,2022-08-20,sunil.saxena41@gmail.com,9091307562,No
+EMP1250,Rohit Tiwari,54,Female,Mumbai,Finance,,31 yrs,161803,89%,Average,2019-04-10,rohit.tiwari24@gmail.com,9371576605,No
+EMP1079,Swati Saxena,N/A,Male,Pune,Support,Diploma,0,750000,,Poor,2020-07-09,swati.saxena79@gmail.com,9427010393,Yes
+EMP1295,Arjun Joshi,25,Male,Chennai,HR,Master's,2,42515,60,Good,2017-02-10,arjun.joshi44@gmail.com,9324474175,No
+EMP1493,Akash Tiwari,54,Male,Hyderabad,Operations,Diploma,29,147138,82,Good,2015-07-22,akash.tiwari72@gmail.com,9403925199,Yes
+EMP1020,Shreya Rao,,Male,pune,Sales,Bachelor's,24,136488,84,Average,2022-06-06,shreya.rao61@gmail.com,,Yes
+EMP1456,Swati Joshi,45 years,Male,Mumbai,Operations,PhD,22,114094,94,Average,12/02/2019,swati.joshi73@gmail.com,9090016356,No
+EMP1424,Arjun Pandey,31,Female,Surat,Engineering,,8,53956,72,Average,2022-05-17,arjun.pandey80@gmail.com,9316082717,Yes
+EMP1140,Manoj Kumar,50,Female,Pune,Finance,Master's,27,153981,,Average,2016-06-23,manoj.kumar21@gmail.com,9717477332,No
+EMP1192,Ravi Mishra,52,F,Chennai,Support,PhD,28,153k,,Average,2016-07-21,ravi.mishra74@gmail.com,9777251996,Yes
+EMP1130,Ranjit Nair,48,Female,Surat,HR,PhD,24,142836,61,Average,2016-06-23,ranjit.nair36@gmail.com,9298324826,No
+EMP1215,Meera Sharma,22,Female,Jaipur,Operations,PhD,0,28625,100,Good,2019-03-09,meera.sharma59@gmail.com,9749160169,
+EMP1244,Swati Gupta,28,Male,Kolkata,Legal,High School,5,38276,77,Good,2021-07-29,swati.gupta14@gmail.com,9422711332,Yes
+EMP1363,Sanjay Saxena,48,Male,Jaipur,Engineering,Bachelor's,25,132329,59,Average,2022-11-13,sanjay.saxena60@gmail.com,9050801849,No
+EMP1486,Sunita Iyer,50,Male,Hyderabad,Support,Master's,25,,41%,Average,2017-07-08,sunita.iyer16@gmail.com,9958629739,No
+EMP1059,Rahul Malhotra,58,Male,Mumbai,HR,Master's,36,,77,Average,2022-12-29,rahul.malhotra60@gmail.com,9142939685,Yes
+EMP1221,Lakshmi Pandey,58,Male,Mumbai,Finance,High School,35 yrs,185218,67,Good,2019-02-04,lakshmi.pandey96@gmail.com,9289931608,Yes
+EMP1176,Meera Verma,48,Male,Bangalore,Design,PhD,25,128179,100,Excellent,2022-04-04,meera.verma88@gmail.com,9317342069,No
+EMP1449,Manoj Tiwari,52,Female,Chennai,Legal,High School,27,147816,51,Excellent,2017-11-07,manoj.tiwari95@gmail.com,9544608385,Yes
+EMP1055,Nisha Joshi,31,Female,Ahmedabad,Engineering,Diploma,6,55648,75,,2017-09-21,nisha.joshi42@gmail.com,9351751830,Yes
+EMP1291,Rahul Trivedi,52,Female,Bangalore,Engineering,Bachelor's,29,148492,99,Average,2016-11-06,rahul.trivedi70@gmail.com,9051028767,No
+EMP1254,Meera Iyer,47,MALE,SURAT,Support,Master's,24,129744,86,Average,invalid,meera.iyer64@gmail.com,9945919663,Yes
+EMP1407,Rohit Joshi,23,Female,Jaipur,Finance,Diploma,0,not disclosed,96,Poor,2017-01-27,rohit.joshi38@gmail.com,9426698069,Yes
+EMP1385,Manoj Reddy,32,Female,Surat,Data Science,Diploma,10,67430,150,Average,2020-02-19,manoj.reddy59@gmail.com,9553007309,No
+EMP1436,Preeti Saxena,40,Female,Surat,Sales,Diploma,15,82980,44,Excellent,2019-10-31,preeti.saxena94@gmail.com,9203708782,No
+EMP1197,Neha Sharma,36,Male,Mumbai,Finance,Master's,,76448,92,Excellent,19/01/2023,neha.sharma38@gmail.com,9375047930,Yes
+EMP1068,Arjun Nair,N/A,Male,Pune,Marketing,PhD,6,46658,-1,Excellent,2019-08-24,arjun.nair58@gmail.com,9711684577,No
+EMP1210,Amit Tiwari,N/A,Male,Chennai,HR,Bachelor's,8,70889,46,Average,invalid,amit.tiwari78@gmail.com,9621042752,Yes
+EMP1232,Pooja Rao,54,Male,Hyderabad,Engineering,Master's,29,165065,87,Excellent,2020-05-20,pooja.rao47@gmail.com,9471639282,
+EMP1201,Divya Rao,22,Female,Surat,HR,High School,0,31616,92,Excellent,2018-11-09,divya.rao35@gmail.com,9331537795,Yes
+EMP1168,Rohit Patel,26,M,Mumbai,HR,PhD,2 yrs,29004,59,Good,2015-11-10,rohit.patel94@gmail.com,9877347784,Yes
+EMP1185,Vikram Iyer,48,Male,Delhi,Data Science,Diploma,24,137690,84,Good,2016-10-22,vikram.iyer46@gmail.com,9375738395,Yes
+EMP1035,Swati Joshi,47,Female,Surat,Sales,Master's,22,124763,92,Average,2022-11-18,swati.joshi97@gmail.com,9816850542,No
+EMP1129,Anjali Shah,28,Male,Ahmedabad,Support,Diploma,6 yrs,48108,52,Average,2022-12-28,anjali.shah12@gmail.com,9038457620,No
